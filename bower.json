@@ -1,0 +1,22 @@
+{
+  "name": "patrickhrastnik.github.io",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "patrickhrastnik"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/patrickhrastnik/patrickhrastnik.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
