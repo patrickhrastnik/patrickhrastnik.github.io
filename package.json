@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/patrickhrastnik/patrickhrastnik.github.io.git"
   },
-  "author": "patrickhrastnik",
+  "author": "Patrick Hrastnik",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/patrickhrastnik/patrickhrastnik.github.io/issues"
   },
-  "homepage": "https://github.com/patrickhrastnik/patrickhrastnik.github.io#readme",
+  "homepage": "https://patrickhrastnik.github.io",
   "dependencies": {
     "bootstrap": "^3.3.7"
   },

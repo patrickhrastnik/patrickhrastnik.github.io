@@ -3,10 +3,10 @@
   "description": "",
   "main": "index.html",
   "authors": [
-    "patrickhrastnik"
+    "Patrick Hrastnik"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/patrickhrastnik/patrickhrastnik.github.io",
+  "homepage": "https://patrickhrastnik.github.io",
   "private": true,
   "ignore": [
     "**/.*",
